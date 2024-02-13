@@ -1,0 +1,23 @@
+.app-container{
+    background-color:  #ffc2a0;
+    height:108vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.todo-container{
+    background-color: white;
+    width:80%;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start; 
+}
+h1{
+    color:  #ff8542;
+    font-weight: bold;
+    font-size: 35px;
+}
+
